@@ -1,0 +1,17 @@
+id,nome,idade,email,data_admissao,salario,departamento,ativo,projetos_entregues,avaliacao
+1,Carlos Silva,32.0,carlos.silva@empresa.com,2019-06-15,8500.0,TI,Sim,12.0,A
+2,Ana Paula,33.0,ana.paula@email.com,2019-05-28,9300.0,Recursos Humanos,Sim,15.0,B
+3,João,45.0,joao@email.com,2019-05-28,10500.0,Vendas,Sim,20.0,C
+5,Fabio,29.0,fabio@empresa.com,2020-12-15,8650.0,TI,Sim,12.0,A
+6,Luciana,27.0,luciana@email.com,2019-05-10,8000.0,Marketing,Sim,8.0,A
+8,Rafaela,33.0,rafaela@email.com,2019-05-28,6700.0,,Não,5.0,C
+9,Sandra,28.0,sandra@email.com,2019-05-28,8500.0,TI,Não,11.0,F
+10,Marcelo,33.0,marcelo@empresa.com,2016-03-21,7000.0,TI,Sim,7.0,E
+11,Fernanda,42.0,fernanda@email.com,2021-05-01,11500.0,TI,Sim,14.0,A
+12,Ricardo,36.0,ricardo@email.com,2019-05-28,9800.0,Marketing,Sim,9.0,B
+13,Juliana,33.0,juliana@empresa.com,2018-10-20,8800.0,Vendas,,18.0,C
+15,Lucas,27.0,lucas@email.com,2019-05-28,7500.0,Recursos Humanos,Sim,10.0,E
+17,Fernando,50.0,fernando@email.com,2019-05-28,11000.0,Marketing,Sim,20.0,A
+18,Cíntia,29.0,cintia@email.com,2020-09-25,8400.0,TI,Não,15.0,B
+19,Rafael,33.0,rafael@email.com,2017-12-10,8650.0,Vendas,Sim,12.0,E
+20,Joana,38.0,joana@email.com,2019-05-28,9000.0,Recursos Humanos,Sim,12.0,C

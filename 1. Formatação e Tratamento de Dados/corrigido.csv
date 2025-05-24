@@ -1,19 +1,16 @@
 ,id,nome,idade,email,data_cadastro,compras,ativo,cidade
-0,1,João Paulo,32.0,joao@email.com,2020-13-01,10.0,Sim,São Paulo
-1,2,Mariana,28.0,mariana@gmail.com,2022/02/15,7.0,Sim,Rio De Janeiro
+1,2,Mariana,28.0,mariana@gmail.com,2022-02-15,7.0,Sim,Rio De Janeiro
 3,4,Ana Clara,19.0,ana.clara.email.com,2021-05-10,5.0,Sim,São Paulo
 4,5,Pedro,23.0,pedro@email.com,2023-01-28,9.0,Não,Porto Alegre
-5,6,Lucas,41.0,lucas@empresa.com,2021-15-07,18.0,Sim,Rio De Janeiro
-6,7,Vanessa,17.0,vanessa@email.com,15-11-2022,14.0,Sim,Belo Horizonte
+6,7,Vanessa,17.0,vanessa@email.com,2022-11-15,14.0,Sim,Belo Horizonte
 8,9,Felipe,45.0,felipe@gmail.com,2020-03-10,3.0,Sim,Porto Alegre
 9,10,Sofia,19.0,sofia@email.com,2022-07-07,6.0,Sim,Rio De Janeiro
 10,11,Alberto,28.0,alberto@email.com,2021-09-12,9.0,Sim,Rio De Janeiro
-11,12,Maria,38.0,maria@empresa.com,2018/08/09,9.0,Não,Belo Horizonte
+11,12,Maria,38.0,maria@empresa.com,2018-08-09,9.0,Não,Belo Horizonte
 12,13,Camila,30.0,camilaemail.com,2019-04-15,12.0,Sim,São Paulo
-13,14,Rafael,29.0,rafael@email.com,2021-01-32,5.0,Não,Porto Alegre
 14,15,Luis,42.0,luis@email.com,2021-09-01,9.0,Sim,Belo Horizonte
 15,16,Gabriela,26.0,gabriela@email.com,2018-06-21,7.0,Sim,Rio De Janeiro
-17,18,Eduardo,25.0,eduardo@email.com,2021/02/13,6.0,Sim,Belo Horizonte
+17,18,Eduardo,25.0,eduardo@email.com,2021-02-13,6.0,Sim,Belo Horizonte
 18,19,Ana,19.0,ana@email.com,2022-05-29,11.0,Sim,Porto Alegre
 20,21,Pablo,38.0,pablo@gmail.com,2020-07-20,5.0,Sim,Rio De Janeiro
 22,23,Caio,19.0,caio@email.com,2019-02-14,9.0,Não,Porto Alegre
@@ -21,15 +18,14 @@
 24,25,Aline,27.0,aline@empresa.com,2021-09-30,11.0,Sim,Rio De Janeiro
 25,26,Luciana,35.0,luciana@email.com,2022-03-08,9.0,Sim,São Paulo
 26,27,Marcos,28.0,marcos@email.com,2020-05-07,9.0,Sim,Porto Alegre
-27,28,Fernanda,41.0,fernanda@gmail.com,2020/13/05,8.0,Sim,Rio De Janeiro
 29,30,Bia,30.0,bia@email.com,2021-08-14,9.0,Não,Belo Horizonte
 31,32,Vinicius,27.0,vinicius@empresa.com,2021-01-10,6.0,Sim,São Paulo
-32,33,Cecilia,24.0,cecilia@email.com,2018/09/12,7.0,Sim,Belo Horizonte
+32,33,Cecilia,24.0,cecilia@email.com,2018-09-12,7.0,Sim,Belo Horizonte
 33,34,Patricia,31.0,patricia@email.com,2021-12-05,9.0,Sim,Rio De Janeiro
 34,35,Gustavo,28.0,gustavo@email.com,2017-10-28,5.0,Sim,Porto Alegre
-35,36,Rita,29.0,rita@email.com,18-07-2020,3.0,Sim,São Paulo
+35,36,Rita,29.0,rita@email.com,2020-07-18,3.0,Sim,São Paulo
 36,37,Rodrigo,36.0,rodrigo@gmail.com,2019-09-04,11.0,Não,Belo Horizonte
-37,38,Susana,26.0,susana@empresa.com,20-07-2022,7.0,Sim,Porto Alegre
+37,38,Susana,26.0,susana@empresa.com,2022-07-20,7.0,Sim,Porto Alegre
 39,40,Josefina,44.0,josefina@email.com,2021-06-09,12.0,Sim,São Paulo
 40,41,Igor,38.0,igor@email.com,2022-03-31,11.0,Sim,Porto Alegre
 41,42,Marcela,25.0,marcela@gmail.com,2018-11-30,8.0,Sim,Belo Horizonte
@@ -39,13 +35,13 @@
 46,47,Leonardo,27.0,leonardo@empresa.com,2021-04-16,10.0,Sim,Porto Alegre
 47,48,Bruna,31.0,bruna@gmail.com,2022-09-15,11.0,Sim,Belo Horizonte
 48,49,Mateus,21.0,mateus@gmail.com,2021-12-28,8.0,Sim,São Paulo
-50,51,Ricardo,23.0,ricardo@empresa.com,2020/04/07,9.0,Sim,Belo Horizonte
+50,51,Ricardo,23.0,ricardo@empresa.com,2020-04-07,9.0,Sim,Belo Horizonte
 51,52,Amanda,29.0,amanda@email.com,2022-10-05,10.0,Sim,Rio De Janeiro
 52,53,Daniel,32.0,daniel@email.com,2021-03-09,12.0,Não,São Paulo
-54,55,Giovana,28.0,giovana@empresa.com,15-09-2018,7.0,Sim,Belo Horizonte
+54,55,Giovana,28.0,giovana@empresa.com,2018-09-15,7.0,Sim,Belo Horizonte
 55,56,Samuel,32.0,samuel@gmail.com,2020-08-25,11.0,Sim,Porto Alegre
 57,58,Adriana,31.0,adriana@email.com,2022-07-28,13.0,Não,Belo Horizonte
-58,59,Helena,26.0,helena@email.com,2019/06/07,9.0,Sim,Rio De Janeiro
+58,59,Helena,26.0,helena@email.com,2019-06-07,9.0,Sim,Rio De Janeiro
 59,60,Eduarda,29.0,eduarda@email.com,2018-05-19,9.0,Não,São Paulo
 61,62,Matheus,33.0,matheus@email.com,2020-07-06,11.0,Sim,Belo Horizonte
 63,64,Cássio,25.0,cassio@gmail.com,2018-03-28,9.0,Não,Rio De Janeiro
@@ -53,26 +49,26 @@
 65,66,Rebeca,23.0,rebeca@email.com,2019-10-08,8.0,Não,São Paulo
 66,67,Otávio,34.0,otavio@empresa.com,2021-11-02,15.0,Sim,Rio De Janeiro
 67,68,Guilherme,27.0,guilherme@email.com,2022-01-09,15.0,Sim,Belo Horizonte
-69,70,Heitor,27.0,heitor@email.com,18-12-2022,14.0,Sim,Sao Paulo
+69,70,Heitor,27.0,heitor@email.com,2022-12-18,14.0,Sim,Sao Paulo
 70,71,Andressa,28.0,andressa@email.com,2018-10-11,10.0,Não,Porto Alegre
 71,72,Larissa,26.0,larissa@email.com,2017-09-28,12.0,Sim,São Paulo
 72,73,Murilo,29.0,murilo@gmail.com,2021-02-07,5.0,Sim,Porto Alegre
 73,74,Beatriz,38.0,beatriz@email.com,2021-07-13,10.0,Sim,Belo Horizonte
-74,75,Aurora,23.0,aurora@email.com,15-02-2019,8.0,Não,Rio De Janeiro
+74,75,Aurora,23.0,aurora@email.com,2019-02-15,8.0,Não,Rio De Janeiro
 75,76,Lucas,31.0,lucas@email.com,2022-09-18,16.0,Sim,São Paulo
 76,77,Caio,22.0,caio@empresa.com,2019-11-02,7.0,Sim,Porto Alegre
 77,78,Ana Carolina,28.0,ana.carolina@email.com,2020-05-30,7.0,Sim,Belo Horizonte
 78,79,Bruno,30.0,bruno@email.com,2022-03-03,12.0,Não,Rio De Janeiro
-79,80,Aline,27.0,aline@email.com,2022/01/29,10.0,Sim,Porto Alegre
+79,80,Aline,27.0,aline@email.com,2022-01-29,10.0,Sim,Porto Alegre
 80,81,Marina,28.0,marina@email.com,2020-04-29,7.0,Sim,São Paulo
 81,82,Rafael,29.0,rafael@gmail.com,2021-12-01,9.0,Sim,Belo Horizonte
 82,83,Wilma,32.0,wilma@empresa.com,2019-07-09,11.0,Sim,Porto Alegre
 83,84,Danilo,31.0,danilo@email.com,2018-09-17,10.0,Não,Rio De Janeiro
-84,85,Renata,26.0,renata@empresa.com,21-06-2019,6.0,Sim,Porto Alegre
-85,86,Felipe,35.0,felipe@email.com,2019/11/04,8.0,Sim,São Paulo
+84,85,Renata,26.0,renata@empresa.com,2019-06-21,6.0,Sim,Porto Alegre
+85,86,Felipe,35.0,felipe@email.com,2019-11-04,8.0,Sim,São Paulo
 87,88,Amanda,23.0,amanda@gmail.com,2018-05-02,7.0,Sim,Porto Alegre
 88,89,Adriano,25.0,adriano@empresa.com,2020-10-27,4.0,Não,Rio De Janeiro
-89,90,Ivan,33.0,ivan@email.com,2021/08/14,11.0,Sim,São Paulo
+89,90,Ivan,33.0,ivan@email.com,2021-08-14,11.0,Sim,São Paulo
 90,91,Regina,28.0,regina@empresa.com,2022-05-10,12.0,Sim,Porto Alegre
 92,93,Santana,23.0,santana@email.com,2017-07-16,6.0,Sim,Rio De Janeiro
 93,94,Nilson,32.0,nilson@email.com,2020-11-19,13.0,Sim,Porto Alegre
