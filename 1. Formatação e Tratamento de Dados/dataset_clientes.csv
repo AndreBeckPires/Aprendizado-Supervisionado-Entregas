@@ -1,0 +1,101 @@
+id,nome,idade,email,data_cadastro,compras,ativo,cidade
+1, JOÃO PAULO  ,32,joao@,2020-13-01,10,sim,são paulo
+2,Mariana,28,mariana@gmail.com,2022/02/15,7,Sim,Rio De Janeiro
+3,Carlos Silva,NaN,,2019-11-20, ,não,Belo Horizonte
+4,  ana CLARA ,19,ana.clara.email.com,2021-05-10,5,sim,são paulo
+5,PEDRO,23,pedro@email,2023-01-28,NaN,Não,Porto alegre
+6,Lucas,41,lucas@empresa.com,2021-15-07,18,sim,Rio de Janeiro
+7,Vanessa,17,vanessa@email.com,15-11-2022,14,sim, belo horizonte
+8,Júlia ,27,,2021-12-05,8,não,São PAULO
+9,felipe,45,felipe@gmail.com,2020-03-10,3,Sim,PORTO ALEGRE
+10,Sofia,19,sofia@,2022-07-07,6,Sim,Rio de Janeiro
+11,Alberto,abc,alberto@email.com,2021-09-12,9, sim ,rio de janeiro
+12,MARIA,38,maria@empresa,2018/08/09,,Não,Belo Horizonte
+13,Camila,30,camilaemail.com,2019-04-15,12,sim,São paulo
+14, raFaEl ,29,rafael@email,2021-01-32,5,Não,Porto Alegre
+15,Luis,42,luis@email.com,2021-09-01,,Sim,belo Horizonte
+16,Gabriela,26,gabriela@email.com,2018-06-21,7,sim,rio de janeiro
+17,Roberta,21,roberta@empresa,2020-11-05,5,,SÃO PAULO
+18, Eduardo ,25,eduardo@,2021/02/13,6,Sim, belo horizonte 
+19,Ana,19,ana@email.com,2022-05-29,11,sim,Porto Alegre
+20,Valéria,36,,2018-13-08,16,sim,Rio de Janeiro
+21,Pablo,38,pablo@gmail.com,2020-07-20,5,Sim,rio de janeiro
+22,Juliano,20,,2020/11/19,8,não,são paulo
+23,caio,19,caio@,2019-02-14,9,NÃO,porto alegre
+24,Bruno,28,bruno@gmail.com,2021-12-11,7,sim, belo horizonte
+25,Aline,27,aline@empresa,2021-09-30,11,sim,Rio De Janeiro
+26,Luciana,35,luciana@email,2022-03-08,,Sim,são paulo
+27,Marcos,NaN,marcos@email.com,2020-05-07,9, sim ,Porto alegre
+28,Fernanda,41,fernanda@gmail,2020/13/05,8,Sim,Rio de Janeiro
+29,thiago,23,,2019-10-05,7,sim, São Paulo
+30,Bia,30,bia@email.com,2021-08-14,,Não,belo horizonte
+31,Fabio,NaN,,2018-07-19,5,sim,Porto Alegre
+32,Vinicius,27,vinicius@empresa,2021-01-10,6,sim,São paulo
+33,Cecilia,24,cecilia@email.com,2018/09/12,7,Sim,belo horizonte
+34,Patricia,31,patricia@email.com,2021-12-05,9,sim, rio de janeiro
+35,GUSTAVO,28,gustavo@,2017-10-28,5,sim,porto ALEGRE
+36,Rita,29,rita@email.com,18-07-2020,3,Sim,SÃO PAULO
+37,rodrigo,36,rodrigo@gmail.com,2019-09-04,11,não,Belo Horizonte
+38,Susana,26,susana@empresa.com,20-07-2022,7,Sim,Porto Alegre
+39,Enzo,39,,21-12-2020,10,sim,rio de janeiro
+40,Josefina,44,josefina@email.com,2021-06-09,12,Sim,São Paulo
+41,Igor,38,igor@email,2022-03-31,11,sim,porto alegre
+42,Marcela,25,marcela@gmail.com,2018-11-30,8,Sim,belo Horizonte
+43,Sara,NaN,sara@email.com,2021-09-08,,sim, Rio de Janeiro
+44,Isabela,23,isabela@empresa,2019-08-25,7,NÃO,sãO pAulO
+45,Rafael,35,,2020-04-15,10,sim,Porto Alegre
+46,Renata,33,renata@email.com,2019-10-03,9,Sim,Rio De Janeiro
+47,Leonardo,27,leonardo@empresa.com,2021-04-16,10,sim,Porto Alegre
+48,Bruna,31,bruna@gmail.com,2022-09-15,11,sim,Belo Horizonte
+49,Mateus,21,mateus@gmail.com,2021-12-28,8,sim,são paulo
+50,Paula,28,,2019-12-10,7,Não,PORTO ALEGRE
+51,Ricardo,23,ricardo@empresa.com,2020/04/07,9,sim,Belo Horizonte
+52,Amanda,29,amanda@email.com,2022-10-05,10,Sim,rio de janeiro
+53,Daniel,32,daniel@email.com,2021-03-09,12,NÃO,São Paulo
+54,leticia,24,,2018-06-30,6,Sim,porto alegre
+55,Giovana,NaN,giovana@empresa,15-09-2018,7,sim,belo Horizonte
+56,Samuel,32,samuel@gmail.com,2020-08-25,11,sim, Porto Alegre
+57,Paulo,28,,2022/01/10,14,sIm,porto alegre
+58,Adriana,31,adriana@,2022-07-28,13,Não,belO horizonte
+59,Helena,26,helena@email.com,2019/06/07,9,sim,rio de janeiro
+60,Eduarda,29,eduarda@email.com,2018-05-19,,Não,são paulo
+61,Renato,27,,2021-09-13,13,Sim,Porto Alegre
+62,Matheus,33,matheus@email.com,2020-07-06,11,sim, Belo Horizonte
+63,Nathalia,28,,2020-10-02,7,Sim,porto alegre
+64,Cássio,25,cassio@gmail.com,2018-03-28,,não,rio de janeiro
+65,Eloá,31,eloa@email,2021-08-05,7,sim, Porto Alegre
+66,Rebeca,23,rebeca@email.com,2019-10-08,8,NÃO,São Paulo
+67,Otávio,34,otavio@empresa.com,2021-11-02,15,sim,rio de janeiro
+68,Guilherme,27,guilherme@,2022-01-09,15,Sim,Belo Horizonte
+69,Priscila,36,,2020-02-08,12,sim,porto alegre
+70,Heitor,27,heitor@email.com,18-12-2022,14,Sim, sao paulo
+71,Andressa,28,andressa@email,2018-10-11,10,NÃO,Porto Alegre
+72,Larissa,26,larissa@email.com,2017-09-28,12,sim,são paulo
+73,Murilo,29,murilo@gmail.com,2021-02-07,5,sim,PORTO ALEGRE
+74,Beatriz,38,beatriz@,2021-07-13,10,sim,belo horizonte
+75,Aurora,23,aurora@email.com,15-02-2019,8,Não,Rio De Janeiro
+76,Lucas,31,lucas@email,2022-09-18,16,Sim,São Paulo
+77,Caio,22,caio@empresa.com,2019-11-02,7,sim,porto alegre
+78,Ana Carolina,,ana.carolina@email.com,2020-05-30,7,sim,Belo Horizonte
+79,Bruno,30,bruno@email,2022-03-03,12,não,rio de janeiro
+80,Aline,27,aline@,2022/01/29,10,Sim,Porto Alegre
+81,Marina,NaN,marina@email,2020-04-29,7,sim,são paulo
+82,Rafael,29,rafael@gmail,2021-12-01,9,Sim, Belo Horizonte
+83,Wilma,32,wilma@empresa.com,2019-07-09,11,sim,porto alegre
+84,Danilo,31,danilo@email.com,2018-09-17,10,NÃO, rio de janeiro
+85,Renata,26,renata@empresa,21-06-2019,6,sim,porto alegre
+86,Felipe,35,felipe@email.com,2019/11/04,8,Sim,São Paulo
+87,Lorena,43,,2021-13-07,11,sim,belo horizonte
+88,Amanda,23,amanda@gmail,2018-05-02,7,sim,PORTO ALEGRE
+89,Adriano,25,adriano@empresa,2020-10-27,4,não,Rio de Janeiro
+90,Ivan,33,ivan@email.com,2021/08/14,11,Sim,são paulo
+91,Regina,28,regina@empresa.com,2022-05-10,12,Sim,porto alegre
+92,Alessandra,25,,2018-08-22,10,sim,belo horizonte
+93,Santana,23,santana@email,2017-07-16,6,sim, rio de janeiro
+94,Nilson,32,nilson@email.com,2020-11-19,13,Sim,Porto Alegre
+95,Olga,NaN,olga@empresa.com,2021-04-07,10,sim,são paulo
+96,Rodrigo,26,rodrigo@email.com,2018-02-21,7,NÃO,Belo Horizonte
+97,Eunice,29,,2020/04/09,11,sim,porto alegre
+98,Wilson,38,wilson@gmail,2022-11-10,15,sim,porto alegre
+99,Leila,27,leila@email.com,2018-12-21,11,sim,Belo Horizonte
+100,Alan,27,alan@,2021-05-05,10,sim,PORTO ALEGRE
