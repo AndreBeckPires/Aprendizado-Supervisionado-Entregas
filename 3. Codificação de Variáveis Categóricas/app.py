@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import LabelEncoder
 from category_encoders import TargetEncoder
+from category_encoders import HashingEncoder
 
 def read_csv(path):
     df = pd.read_csv(path)
@@ -38,6 +39,10 @@ def target(df,categorico,numerico):
     df[f'{categorico}/{numerico}'] = x_encoded
     return df
 
+def hash_encod(df,column):
+    encoder = HashingEncoder(n_components= 8, cols=[column])
+    df_encoded = encoder.fit_transform(df)
+    return df_encoded
 
 df = read_csv('3. Codificação de Variáveis Categóricas\clientes_vendas.csv')
 
@@ -46,6 +51,8 @@ df = one_hot(df,'categoria_produto')
 df = label(df,['genero','estado_civil','canal_venda'])
 
 df = target(df,'cidade','avaliacao_cliente')
+
+df = hash_encod(df,'produto')
 save_to_csv(df,'3. Codificação de Variáveis Categóricas\corrigido.csv')
 
 

@@ -1,0 +1,16 @@
+id,nome,especie,idade,cor,tamanho,adotado,local_resgate,data_resgate
+1,Bobby,Cachorro,5,Branco,Grande,Sim,Rio de Janeiro,2023-01-15
+2,Luna,Gato,,Preto,Pequeno,Não,Belo Horizonte,2022-11-03
+3,Mingau,gato,2,Laranja,,sim,Curitiba,2023-02-09
+4,Rex,Cachorro,7,,médio,Nao,Porto Alegre,2022/12/25
+5,Felix,Gato,1,Preto EN branco,Pequeno,NÃO,Brasilia,2022-10-10
+6,Thor,Coelho,3,Marrom,Pequeno,Sim,São Paulo,2023-01-05
+7,Bella,,4,,Grande,sim,Rio de Janeiro,2023-02-20
+8,Zelda,Passaro,1,Azul,pequeno,não,Belo Horizonte,2022-09-01
+9,Max,Cachorro,,Branco,Vermelho,Sim,Curitiba,05/12/2022
+10,Nina,GATO,2,PRETO,Médio,Sim,Brasília,2023-01-12
+11,Spike,Cachorro,3,Branco,Grande,não,Rio de Janeiro,2023-02-05
+12,Chloe,Gato,4,Laranja,Pequeno,Nao,Belo Horizonte,2022-11-18
+13,Roco,Coelho,1,Marrom,Pequeno,,Porto Alegre,2022/12/01
+14,Dino,Cachorro,5,Preto,Médio,Não,Curitiba,2023-01-20
+15,Bob,,3,Cinza,Médio,Sim,São Paulo,

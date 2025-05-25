@@ -1,51 +1,51 @@
-id,genero,estado_civil,cidade,profissao,canal_venda,produto,avaliacao_cliente,tem_cupom,valor_compra,categoria_produto_Domésticos,categoria_produto_Eletrônicos,genero_encoded,estado_civil_encoded,canal_venda_encoded,cidade/avaliacao_cliente
-1,Feminino,Solteiro,São Paulo,Estudante,Online,Notebook,5,Sim,3500,0.0,1.0,0,2,2,3.843245414763243
-2,Masculino,Casado,Rio de Janeiro,Analista,Loja Física,Smartphone,3,Não,1800,0.0,1.0,1,0,1,3.7921973797121917
-3,Outro,Solteiro,Belo Horizonte,Autônomo,Aplicativo,Lavadora,4,Sim,2200,1.0,0.0,2,2,0,4.047437554967448
-4,Feminino,Divorciado,Porto Alegre,Engenheiro,Online,Tablet,2,Não,1200,0.0,1.0,0,1,2,3.835854105855455
-5,Masculino,Casado,São Paulo,Gerente,Loja Física,Liquidificador,5,Não,340,1.0,0.0,1,0,1,3.843245414763243
-6,Feminino,Solteiro,Rio de Janeiro,Professor,Aplicativo,SmartTV,4,Sim,2900,0.0,1.0,0,2,0,3.7921973797121917
-7,Masculino,Viúvo,Belo Horizonte,Médico,Online,Fogão,5,Sim,2100,1.0,0.0,1,3,2,4.047437554967448
-8,Feminino,Casado,São Paulo,Estudante,Aplicativo,Microondas,4,Não,950,1.0,0.0,0,0,0,3.843245414763243
-9,Outro,Divorciado,Porto Alegre,Analista,Online,Impressora,2,Sim,800,0.0,1.0,2,1,2,3.835854105855455
-10,Masculino,Solteiro,Rio de Janeiro,Gerente,Loja Física,Tablet,4,Não,1000,0.0,1.0,1,2,1,3.7921973797121917
-11,Outro,Viúvo,Belo Horizonte,Professor,Aplicativo,Lavadora,5,Sim,2300,1.0,0.0,2,3,0,4.047437554967448
-12,Feminino,Casado,Porto Alegre,Autônomo,Online,Notebook,5,Sim,3400,0.0,1.0,0,0,2,3.835854105855455
-13,Feminino,Solteiro,São Paulo,Médico,Loja Física,Fogão,2,Não,1600,1.0,0.0,0,2,1,3.843245414763243
-14,Masculino,Divorciado,Rio de Janeiro,Estudante,Online,Microondas,3,Sim,1200,1.0,0.0,1,1,2,3.7921973797121917
-15,Feminino,Casado,Belo Horizonte,Gerente,Aplicativo,Smartphone,5,Não,2100,0.0,1.0,0,0,0,4.047437554967448
-16,Outro,Solteiro,Porto Alegre,Professor,Loja Física,SmartTV,4,Sim,2850,0.0,1.0,2,2,1,3.835854105855455
-17,Masculino,Casado,São Paulo,Analista,Online,Impressora,3,Não,1160,0.0,1.0,1,0,2,3.843245414763243
-18,Feminino,Divorciado,Rio de Janeiro,Engenheiro,Aplicativo,Liquidificador,4,Sim,400,1.0,0.0,0,1,0,3.7921973797121917
-19,Masculino,Viúvo,Belo Horizonte,Médico,Online,Notebook,5,Não,3700,0.0,1.0,1,3,2,4.047437554967448
-20,Outro,Solteiro,Porto Alegre,Gerente,Online,Fogão,2,Sim,1980,1.0,0.0,2,2,2,3.835854105855455
-21,Feminino,Casado,São Paulo,Estudante,Aplicativo,Tablet,3,Sim,990,0.0,1.0,0,0,0,3.843245414763243
-22,Masculino,Solteiro,Rio de Janeiro,Engenheiro,Loja Física,Smartphone,4,Não,1850,0.0,1.0,1,2,1,3.7921973797121917
-23,Feminino,Casado,Belo Horizonte,Professor,Online,SmartTV,5,Sim,3100,0.0,1.0,0,0,2,4.047437554967448
-24,Masculino,Casado,Porto Alegre,Analista,Aplicativo,Liquidificador,4,Não,420,1.0,0.0,1,0,0,3.835854105855455
-25,Outro,Solteiro,São Paulo,Autônomo,Online,Microondas,4,Sim,910,1.0,0.0,2,2,2,3.843245414763243
-26,Masculino,Divorciado,Rio de Janeiro,Gerente,Aplicativo,Notebook,5,Sim,3550,0.0,1.0,1,1,0,3.7921973797121917
-27,Feminino,Casado,Belo Horizonte,Engenheiro,Loja Física,Tablet,3,Não,1150,0.0,1.0,0,0,1,4.047437554967448
-28,Feminino,Solteiro,Porto Alegre,Estudante,Online,SmartTV,4,Sim,2500,0.0,1.0,0,2,2,3.835854105855455
-29,Masculino,Casado,São Paulo,Médico,Aplicativo,Impressora,5,Não,900,0.0,1.0,1,0,0,3.843245414763243
-30,Outro,Divorciado,Rio de Janeiro,Autônomo,Loja Física,Lavadora,2,Sim,2150,1.0,0.0,2,1,1,3.7921973797121917
-31,Feminino,Casado,Belo Horizonte,Gerente,Online,Smartphone,5,Não,2080,0.0,1.0,0,0,2,4.047437554967448
-32,Masculino,Viúvo,São Paulo,Professor,Aplicativo,Fogão,4,Sim,1750,1.0,0.0,1,3,0,3.843245414763243
-33,Outro,Solteiro,Rio de Janeiro,Engenheiro,Loja Física,Microondas,3,Não,820,1.0,0.0,2,2,1,3.7921973797121917
-34,Feminino,Casado,Porto Alegre,Médico,Online,SmartTV,4,Sim,2950,0.0,1.0,0,0,2,3.835854105855455
-35,Masculino,Divorciado,Belo Horizonte,Analista,Aplicativo,Tablet,5,Não,990,0.0,1.0,1,1,0,4.047437554967448
-36,Feminino,Solteiro,São Paulo,Gerente,Online,Liquidificador,3,Sim,390,1.0,0.0,0,2,2,3.843245414763243
-37,Outro,Casado,Rio de Janeiro,Estudante,Loja Física,Notebook,4,Não,3450,0.0,1.0,2,0,1,3.7921973797121917
-38,Masculino,Viúvo,Porto Alegre,Autônomo,Aplicativo,Fogão,5,Sim,1910,1.0,0.0,1,3,0,3.835854105855455
-39,Feminino,Divorciado,Belo Horizonte,Engenheiro,Online,Impressora,3,Não,700,0.0,1.0,0,1,2,4.047437554967448
-40,Outro,Solteiro,São Paulo,Professor,Aplicativo,Smartphone,4,Sim,2040,0.0,1.0,2,2,0,3.843245414763243
-41,Masculino,Casado,Rio de Janeiro,Analista,Online,Tablet,5,Não,1800,0.0,1.0,1,0,2,3.7921973797121917
-42,Feminino,Viúvo,Belo Horizonte,Médico,Loja Física,Lavadora,3,Sim,2200,1.0,0.0,0,3,1,4.047437554967448
-43,Masculino,Casado,Porto Alegre,Gerente,Aplicativo,SmartTV,4,Não,3000,0.0,1.0,1,0,0,3.835854105855455
-44,Outro,Solteiro,São Paulo,Estudante,Online,Microondas,4,Sim,950,1.0,0.0,2,2,2,3.843245414763243
-45,Feminino,Divorciado,Rio de Janeiro,Autônomo,Loja Física,Impressora,2,Não,780,0.0,1.0,0,1,1,3.7921973797121917
-46,Masculino,Casado,Belo Horizonte,Analista,Aplicativo,Fogão,4,Sim,2090,1.0,0.0,1,0,0,4.047437554967448
-47,Outro,Viúvo,Porto Alegre,Engenheiro,Online,Notebook,5,Não,3550,0.0,1.0,2,3,2,3.835854105855455
-48,Masculino,Solteiro,São Paulo,Gerente,Aplicativo,Smartphone,3,Sim,1850,0.0,1.0,1,2,0,3.843245414763243
-49,Feminino,Viúvo,Rio de Janeiro,Professor,Loja Física,SmartTV,4,Não,3100,0.0,1.0,0,3,1,3.7921973797121917
-50,Masculino,Casado,Belo Horizonte,Médico,Online,Liquidificador,5,Sim,410,1.0,0.0,1,0,2,4.047437554967448
+col_0,col_1,col_2,col_3,col_4,col_5,col_6,col_7,id,genero,estado_civil,cidade,profissao,canal_venda,avaliacao_cliente,tem_cupom,valor_compra,categoria_produto_Domésticos,categoria_produto_Eletrônicos,genero_encoded,estado_civil_encoded,canal_venda_encoded,cidade/avaliacao_cliente
+0,1,0,0,0,0,0,0,1,Feminino,Solteiro,São Paulo,Estudante,Online,5,Sim,3500,0.0,1.0,0,2,2,3.843245414763243
+0,0,0,0,0,0,1,0,2,Masculino,Casado,Rio de Janeiro,Analista,Loja Física,3,Não,1800,0.0,1.0,1,0,1,3.7921973797121917
+0,1,0,0,0,0,0,0,3,Outro,Solteiro,Belo Horizonte,Autônomo,Aplicativo,4,Sim,2200,1.0,0.0,2,2,0,4.047437554967448
+0,0,1,0,0,0,0,0,4,Feminino,Divorciado,Porto Alegre,Engenheiro,Online,2,Não,1200,0.0,1.0,0,1,2,3.835854105855455
+0,0,0,1,0,0,0,0,5,Masculino,Casado,São Paulo,Gerente,Loja Física,5,Não,340,1.0,0.0,1,0,1,3.843245414763243
+0,0,1,0,0,0,0,0,6,Feminino,Solteiro,Rio de Janeiro,Professor,Aplicativo,4,Sim,2900,0.0,1.0,0,2,0,3.7921973797121917
+0,0,0,0,0,0,0,1,7,Masculino,Viúvo,Belo Horizonte,Médico,Online,5,Sim,2100,1.0,0.0,1,3,2,4.047437554967448
+0,0,0,0,1,0,0,0,8,Feminino,Casado,São Paulo,Estudante,Aplicativo,4,Não,950,1.0,0.0,0,0,0,3.843245414763243
+0,0,0,0,0,1,0,0,9,Outro,Divorciado,Porto Alegre,Analista,Online,2,Sim,800,0.0,1.0,2,1,2,3.835854105855455
+0,0,1,0,0,0,0,0,10,Masculino,Solteiro,Rio de Janeiro,Gerente,Loja Física,4,Não,1000,0.0,1.0,1,2,1,3.7921973797121917
+0,1,0,0,0,0,0,0,11,Outro,Viúvo,Belo Horizonte,Professor,Aplicativo,5,Sim,2300,1.0,0.0,2,3,0,4.047437554967448
+0,1,0,0,0,0,0,0,12,Feminino,Casado,Porto Alegre,Autônomo,Online,5,Sim,3400,0.0,1.0,0,0,2,3.835854105855455
+0,0,0,0,0,0,0,1,13,Feminino,Solteiro,São Paulo,Médico,Loja Física,2,Não,1600,1.0,0.0,0,2,1,3.843245414763243
+0,0,0,0,1,0,0,0,14,Masculino,Divorciado,Rio de Janeiro,Estudante,Online,3,Sim,1200,1.0,0.0,1,1,2,3.7921973797121917
+0,0,0,0,0,0,1,0,15,Feminino,Casado,Belo Horizonte,Gerente,Aplicativo,5,Não,2100,0.0,1.0,0,0,0,4.047437554967448
+0,0,1,0,0,0,0,0,16,Outro,Solteiro,Porto Alegre,Professor,Loja Física,4,Sim,2850,0.0,1.0,2,2,1,3.835854105855455
+0,0,0,0,0,1,0,0,17,Masculino,Casado,São Paulo,Analista,Online,3,Não,1160,0.0,1.0,1,0,2,3.843245414763243
+0,0,0,1,0,0,0,0,18,Feminino,Divorciado,Rio de Janeiro,Engenheiro,Aplicativo,4,Sim,400,1.0,0.0,0,1,0,3.7921973797121917
+0,1,0,0,0,0,0,0,19,Masculino,Viúvo,Belo Horizonte,Médico,Online,5,Não,3700,0.0,1.0,1,3,2,4.047437554967448
+0,0,0,0,0,0,0,1,20,Outro,Solteiro,Porto Alegre,Gerente,Online,2,Sim,1980,1.0,0.0,2,2,2,3.835854105855455
+0,0,1,0,0,0,0,0,21,Feminino,Casado,São Paulo,Estudante,Aplicativo,3,Sim,990,0.0,1.0,0,0,0,3.843245414763243
+0,0,0,0,0,0,1,0,22,Masculino,Solteiro,Rio de Janeiro,Engenheiro,Loja Física,4,Não,1850,0.0,1.0,1,2,1,3.7921973797121917
+0,0,1,0,0,0,0,0,23,Feminino,Casado,Belo Horizonte,Professor,Online,5,Sim,3100,0.0,1.0,0,0,2,4.047437554967448
+0,0,0,1,0,0,0,0,24,Masculino,Casado,Porto Alegre,Analista,Aplicativo,4,Não,420,1.0,0.0,1,0,0,3.835854105855455
+0,0,0,0,1,0,0,0,25,Outro,Solteiro,São Paulo,Autônomo,Online,4,Sim,910,1.0,0.0,2,2,2,3.843245414763243
+0,1,0,0,0,0,0,0,26,Masculino,Divorciado,Rio de Janeiro,Gerente,Aplicativo,5,Sim,3550,0.0,1.0,1,1,0,3.7921973797121917
+0,0,1,0,0,0,0,0,27,Feminino,Casado,Belo Horizonte,Engenheiro,Loja Física,3,Não,1150,0.0,1.0,0,0,1,4.047437554967448
+0,0,1,0,0,0,0,0,28,Feminino,Solteiro,Porto Alegre,Estudante,Online,4,Sim,2500,0.0,1.0,0,2,2,3.835854105855455
+0,0,0,0,0,1,0,0,29,Masculino,Casado,São Paulo,Médico,Aplicativo,5,Não,900,0.0,1.0,1,0,0,3.843245414763243
+0,1,0,0,0,0,0,0,30,Outro,Divorciado,Rio de Janeiro,Autônomo,Loja Física,2,Sim,2150,1.0,0.0,2,1,1,3.7921973797121917
+0,0,0,0,0,0,1,0,31,Feminino,Casado,Belo Horizonte,Gerente,Online,5,Não,2080,0.0,1.0,0,0,2,4.047437554967448
+0,0,0,0,0,0,0,1,32,Masculino,Viúvo,São Paulo,Professor,Aplicativo,4,Sim,1750,1.0,0.0,1,3,0,3.843245414763243
+0,0,0,0,1,0,0,0,33,Outro,Solteiro,Rio de Janeiro,Engenheiro,Loja Física,3,Não,820,1.0,0.0,2,2,1,3.7921973797121917
+0,0,1,0,0,0,0,0,34,Feminino,Casado,Porto Alegre,Médico,Online,4,Sim,2950,0.0,1.0,0,0,2,3.835854105855455
+0,0,1,0,0,0,0,0,35,Masculino,Divorciado,Belo Horizonte,Analista,Aplicativo,5,Não,990,0.0,1.0,1,1,0,4.047437554967448
+0,0,0,1,0,0,0,0,36,Feminino,Solteiro,São Paulo,Gerente,Online,3,Sim,390,1.0,0.0,0,2,2,3.843245414763243
+0,1,0,0,0,0,0,0,37,Outro,Casado,Rio de Janeiro,Estudante,Loja Física,4,Não,3450,0.0,1.0,2,0,1,3.7921973797121917
+0,0,0,0,0,0,0,1,38,Masculino,Viúvo,Porto Alegre,Autônomo,Aplicativo,5,Sim,1910,1.0,0.0,1,3,0,3.835854105855455
+0,0,0,0,0,1,0,0,39,Feminino,Divorciado,Belo Horizonte,Engenheiro,Online,3,Não,700,0.0,1.0,0,1,2,4.047437554967448
+0,0,0,0,0,0,1,0,40,Outro,Solteiro,São Paulo,Professor,Aplicativo,4,Sim,2040,0.0,1.0,2,2,0,3.843245414763243
+0,0,1,0,0,0,0,0,41,Masculino,Casado,Rio de Janeiro,Analista,Online,5,Não,1800,0.0,1.0,1,0,2,3.7921973797121917
+0,1,0,0,0,0,0,0,42,Feminino,Viúvo,Belo Horizonte,Médico,Loja Física,3,Sim,2200,1.0,0.0,0,3,1,4.047437554967448
+0,0,1,0,0,0,0,0,43,Masculino,Casado,Porto Alegre,Gerente,Aplicativo,4,Não,3000,0.0,1.0,1,0,0,3.835854105855455
+0,0,0,0,1,0,0,0,44,Outro,Solteiro,São Paulo,Estudante,Online,4,Sim,950,1.0,0.0,2,2,2,3.843245414763243
+0,0,0,0,0,1,0,0,45,Feminino,Divorciado,Rio de Janeiro,Autônomo,Loja Física,2,Não,780,0.0,1.0,0,1,1,3.7921973797121917
+0,0,0,0,0,0,0,1,46,Masculino,Casado,Belo Horizonte,Analista,Aplicativo,4,Sim,2090,1.0,0.0,1,0,0,4.047437554967448
+0,1,0,0,0,0,0,0,47,Outro,Viúvo,Porto Alegre,Engenheiro,Online,5,Não,3550,0.0,1.0,2,3,2,3.835854105855455
+0,0,0,0,0,0,1,0,48,Masculino,Solteiro,São Paulo,Gerente,Aplicativo,3,Sim,1850,0.0,1.0,1,2,0,3.843245414763243
+0,0,1,0,0,0,0,0,49,Feminino,Viúvo,Rio de Janeiro,Professor,Loja Física,4,Não,3100,0.0,1.0,0,3,1,3.7921973797121917
+0,0,0,1,0,0,0,0,50,Masculino,Casado,Belo Horizonte,Médico,Online,5,Sim,410,1.0,0.0,1,0,2,4.047437554967448
