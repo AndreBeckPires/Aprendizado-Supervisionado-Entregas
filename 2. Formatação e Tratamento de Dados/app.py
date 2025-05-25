@@ -60,5 +60,3 @@ save_to_csv(df,'2. Formatação e Tratamento de Dados\corrigido.csv')
 
 
 
-
-# Inconsistências no status "ativo": "Sim", "Não", "s", "n".

@@ -1,0 +1,51 @@
+id,genero,estado_civil,cidade,profissao,canal_venda,produto,categoria_produto,avaliacao_cliente,tem_cupom,valor_compra
+1,Feminino,Solteiro,São Paulo,Estudante,Online,Notebook,Eletrônicos,5,Sim,3500
+2,Masculino,Casado,Rio de Janeiro,Analista,Loja Física,Smartphone,Eletrônicos,3,Não,1800
+3,Outro,Solteiro,Belo Horizonte,Autônomo,Aplicativo,Lavadora,Domésticos,4,Sim,2200
+4,Feminino,Divorciado,Porto Alegre,Engenheiro,Online,Tablet,Eletrônicos,2,Não,1200
+5,Masculino,Casado,São Paulo,Gerente,Loja Física,Liquidificador,Domésticos,5,Não,340
+6,Feminino,Solteiro,Rio de Janeiro,Professor,Aplicativo,SmartTV,Eletrônicos,4,Sim,2900
+7,Masculino,Viúvo,Belo Horizonte,Médico,Online,Fogão,Domésticos,5,Sim,2100
+8,Feminino,Casado,São Paulo,Estudante,Aplicativo,Microondas,Domésticos,4,Não,950
+9,Outro,Divorciado,Porto Alegre,Analista,Online,Impressora,Eletrônicos,2,Sim,800
+10,Masculino,Solteiro,Rio de Janeiro,Gerente,Loja Física,Tablet,Eletrônicos,4,Não,1000
+11,Outro,Viúvo,Belo Horizonte,Professor,Aplicativo,Lavadora,Domésticos,5,Sim,2300
+12,Feminino,Casado,Porto Alegre,Autônomo,Online,Notebook,Eletrônicos,5,Sim,3400
+13,Feminino,Solteiro,São Paulo,Médico,Loja Física,Fogão,Domésticos,2,Não,1600
+14,Masculino,Divorciado,Rio de Janeiro,Estudante,Online,Microondas,Domésticos,3,Sim,1200
+15,Feminino,Casado,Belo Horizonte,Gerente,Aplicativo,Smartphone,Eletrônicos,5,Não,2100
+16,Outro,Solteiro,Porto Alegre,Professor,Loja Física,SmartTV,Eletrônicos,4,Sim,2850
+17,Masculino,Casado,São Paulo,Analista,Online,Impressora,Eletrônicos,3,Não,1160
+18,Feminino,Divorciado,Rio de Janeiro,Engenheiro,Aplicativo,Liquidificador,Domésticos,4,Sim,400
+19,Masculino,Viúvo,Belo Horizonte,Médico,Online,Notebook,Eletrônicos,5,Não,3700
+20,Outro,Solteiro,Porto Alegre,Gerente,Online,Fogão,Domésticos,2,Sim,1980
+21,Feminino,Casado,São Paulo,Estudante,Aplicativo,Tablet,Eletrônicos,3,Sim,990
+22,Masculino,Solteiro,Rio de Janeiro,Engenheiro,Loja Física,Smartphone,Eletrônicos,4,Não,1850
+23,Feminino,Casado,Belo Horizonte,Professor,Online,SmartTV,Eletrônicos,5,Sim,3100
+24,Masculino,Casado,Porto Alegre,Analista,Aplicativo,Liquidificador,Domésticos,4,Não,420
+25,Outro,Solteiro,São Paulo,Autônomo,Online,Microondas,Domésticos,4,Sim,910
+26,Masculino,Divorciado,Rio de Janeiro,Gerente,Aplicativo,Notebook,Eletrônicos,5,Sim,3550
+27,Feminino,Casado,Belo Horizonte,Engenheiro,Loja Física,Tablet,Eletrônicos,3,Não,1150
+28,Feminino,Solteiro,Porto Alegre,Estudante,Online,SmartTV,Eletrônicos,4,Sim,2500
+29,Masculino,Casado,São Paulo,Médico,Aplicativo,Impressora,Eletrônicos,5,Não,900
+30,Outro,Divorciado,Rio de Janeiro,Autônomo,Loja Física,Lavadora,Domésticos,2,Sim,2150
+31,Feminino,Casado,Belo Horizonte,Gerente,Online,Smartphone,Eletrônicos,5,Não,2080
+32,Masculino,Viúvo,São Paulo,Professor,Aplicativo,Fogão,Domésticos,4,Sim,1750
+33,Outro,Solteiro,Rio de Janeiro,Engenheiro,Loja Física,Microondas,Domésticos,3,Não,820
+34,Feminino,Casado,Porto Alegre,Médico,Online,SmartTV,Eletrônicos,4,Sim,2950
+35,Masculino,Divorciado,Belo Horizonte,Analista,Aplicativo,Tablet,Eletrônicos,5,Não,990
+36,Feminino,Solteiro,São Paulo,Gerente,Online,Liquidificador,Domésticos,3,Sim,390
+37,Outro,Casado,Rio de Janeiro,Estudante,Loja Física,Notebook,Eletrônicos,4,Não,3450
+38,Masculino,Viúvo,Porto Alegre,Autônomo,Aplicativo,Fogão,Domésticos,5,Sim,1910
+39,Feminino,Divorciado,Belo Horizonte,Engenheiro,Online,Impressora,Eletrônicos,3,Não,700
+40,Outro,Solteiro,São Paulo,Professor,Aplicativo,Smartphone,Eletrônicos,4,Sim,2040
+41,Masculino,Casado,Rio de Janeiro,Analista,Online,Tablet,Eletrônicos,5,Não,1800
+42,Feminino,Viúvo,Belo Horizonte,Médico,Loja Física,Lavadora,Domésticos,3,Sim,2200
+43,Masculino,Casado,Porto Alegre,Gerente,Aplicativo,SmartTV,Eletrônicos,4,Não,3000
+44,Outro,Solteiro,São Paulo,Estudante,Online,Microondas,Domésticos,4,Sim,950
+45,Feminino,Divorciado,Rio de Janeiro,Autônomo,Loja Física,Impressora,Eletrônicos,2,Não,780
+46,Masculino,Casado,Belo Horizonte,Analista,Aplicativo,Fogão,Domésticos,4,Sim,2090
+47,Outro,Viúvo,Porto Alegre,Engenheiro,Online,Notebook,Eletrônicos,5,Não,3550
+48,Masculino,Solteiro,São Paulo,Gerente,Aplicativo,Smartphone,Eletrônicos,3,Sim,1850
+49,Feminino,Viúvo,Rio de Janeiro,Professor,Loja Física,SmartTV,Eletrônicos,4,Não,3100
+50,Masculino,Casado,Belo Horizonte,Médico,Online,Liquidificador,Domésticos,5,Sim,410
