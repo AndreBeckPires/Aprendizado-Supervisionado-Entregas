@@ -1,0 +1,21 @@
+id,idade,profissao,renda_mensal,tempo_como_cliente,avaliacao_cliente,canal_ultima_compra,comprou_novamente
+1,23,Estudante,2200,10,4,Online,0
+2,37,Analista,4500,36,5,Loja Física,1
+3,29,Médico,8000,24,3,Online,0
+4,42,Gerente,9100,60,4,Aplicativo,1
+5,35,Professor,5200,12,2,Loja Física,0
+6,31,Autônomo,3400,6,5,Online,1
+7,26,Engenheiro,6700,15,3,Aplicativo,0
+8,56,Médico,12000,84,5,Online,1
+9,48,Analista,4000,50,4,Loja Física,1
+10,20,Estudante,1500,3,2,Online,0
+11,34,Professor,3800,15,4,Aplicativo,1
+12,41,Engenheiro,8200,48,3,Loja Física,1
+13,39,Autônomo,2900,30,5,Online,0
+14,24,Analista,2000,7,2,Aplicativo,0
+15,51,Gerente,11500,96,5,Loja Física,1
+16,67,Médico,13000,120,4,Online,1
+17,53,Professor,6000,80,3,Aplicativo,1
+18,25,Estudante,1700,5,2,Online,0
+19,44,Autônomo,4100,36,4,Loja Física,1
+20,22,Engenheiro,3000,6,3,Online,0
